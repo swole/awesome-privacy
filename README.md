@@ -322,7 +322,7 @@ When using cloud-based AI services, the data you input is often collected and st
 - [Wallabag](https://wallabag.org/) - Open-source, optionally self-hosted, read it later server. Provides paid hosted service with privacy in mind.
 - [Linkwarden](https://linkwarden.app) - Self-hosted bookmark manager that saves and archives full copies of the pages you collect (AGPL-3.0).
 - [Readeck](https://readeck.org) - Single-binary self-hosted read-it-later app that saves and archives articles for offline reading (AGPL-3.0).
-- [Stackboard](https://github.com/swole/stackboard) - Open source Chrome new tab extension that shows your own Chrome bookmarks as a board, with no account and nothing sent off the browser (MIT).
+- [Stackboard](https://github.com/swole/stackboard) - Open source Chrome new tab that shows your own Chrome bookmarks as a board, an alternative to Toby and start.me with no account and no tracking (MIT).
 
 ### Book and web annotations/highlights management
 
